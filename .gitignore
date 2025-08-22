@@ -1,0 +1,10 @@
+.dart_tool/ 
+build/ 
+android/.gradle/ 
+android/app/build/ 
+ios/ 
+*.log 
+*.pt 
+*.onnx 
+*.tflite 
+*.zip 
